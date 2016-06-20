@@ -1,0 +1,1 @@
+this demo code accompanies the blog post [http://draptik.github.io/blog/2016/05/09/testing-objects-have-same-properties/](http://draptik.github.io/blog/2016/05/09/testing-objects-have-same-properties/)
